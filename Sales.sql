@@ -1,4 +1,4 @@
-/*This is an exploratory Data Analysis of Sales by a company.
+/*This is an exploratory Data Analysis of Sales by an imaginary company that I call the BikeCompany.
 In this analysis, we consider the products, sales made and customers that we may have*/
 
 #Let us try to find who our customers (retailers) are
